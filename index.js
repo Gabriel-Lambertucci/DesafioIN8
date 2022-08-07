@@ -1,6 +1,6 @@
-import { findingNumber } from "./findingNumber.js";
+import { findingNumber } from "./desafio2.js";
 
-import { allMultiples } from './allMultiples.js'
+import { allMultiples } from './desafio1.js'
 
 findingNumber();
 

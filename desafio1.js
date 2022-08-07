@@ -1,3 +1,5 @@
+// Função que calcula a soma de todos os múltiplos de 3 ou 5 abaixo de 1000
+
 export const allMultiples = () => {
   const n = 1000;
   let soma = 0; 
